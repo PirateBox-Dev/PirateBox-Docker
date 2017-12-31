@@ -1,2 +1,3 @@
-# PirateBox-Docker
-Simple Dockerfile to create a local webserver with the PirateBox-UI
+Docker for PirateBox
+
+This container is only to run the Website for local hosting or testing.
